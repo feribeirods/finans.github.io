@@ -1,0 +1,32 @@
+img#logo {
+	width: 120px;
+}
+
+#texto-cabecalho {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 3em;
+	color: white;	
+}
+
+#texto-cabecalho2 {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 0.9em;
+	color: white;
+}
+
+.margem-menu {
+	margin: 0 auto;
+}
+
+.link-app {
+	color: white;
+}
+
+.caixa {
+	padding: 60px 0px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
